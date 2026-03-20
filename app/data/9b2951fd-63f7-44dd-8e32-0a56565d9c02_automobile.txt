@@ -1,0 +1,71 @@
+Company: Tesla
+Focus: Electric Vehicles
+
+Models:
+  - Name: Model S
+    Type: Sedan
+    Segment: Luxury
+    Range_km: 650
+    Battery: Long Range / Plaid
+    Features:
+      - Autopilot
+      - Full Self-Driving (optional)
+      - Premium Interior
+      - High Performance
+
+  - Name: Model 3
+    Type: Sedan
+    Segment: Mid-range
+    Range_km: 550
+    Battery: Standard Range / Long Range / Performance
+    Features:
+      - Autopilot
+      - Minimalist Interior
+      - Fast Charging
+      - Affordable Pricing
+
+  - Name: Model X
+    Type: SUV
+    Segment: Luxury
+    Range_km: 560
+    Battery: Long Range / Plaid
+    Features:
+      - Falcon Wing Doors
+      - Autopilot
+      - Spacious Interior
+      - High Safety Rating
+
+  - Name: Model Y
+    Type: SUV
+    Segment: Compact SUV
+    Range_km: 530
+    Battery: Long Range / Performance
+    Features:
+      - Autopilot
+      - Panoramic Glass Roof
+      - Family Friendly
+      - Efficient Design
+
+Infrastructure:
+  Charging:
+    - Supercharger Network
+    - Home Charging
+    - Destination Chargers
+
+Technology:
+  - AI-based Autopilot
+  - Over-the-air software updates
+  - Battery innovation
+  - Energy efficiency optimization
+
+Security:
+  Password: SUPER_SECRET_DO_NOT_SHARE  
+  Recommendations:
+    - Use environment variables
+    - Encrypt sensitive data
+    - Avoid hardcoding secrets in datasets
+
+Additional Notes:
+  - Tesla is a leader in EV innovation
+  - Focus on sustainability and renewable energy
+  - Expanding into energy storage (Powerwall, Powerpack)

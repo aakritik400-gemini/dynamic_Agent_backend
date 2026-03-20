@@ -1,0 +1,84 @@
+Industry: Petrochemical
+
+Products:
+  - Name: Ethylene
+    Type: Olefin
+    Description: A colorless, flammable gas and one of the most important petrochemical feedstocks.
+    Production:
+      Method: Steam Cracking
+      Feedstock:
+        - Naphtha
+        - Ethane
+    Derivatives:
+      - Polyethylene (PE)
+      - Ethylene Oxide
+      - Ethylene Glycol
+      - PVC (via intermediates)
+    Uses:
+      - Plastic packaging (bags, films, bottles)
+      - Antifreeze (via ethylene glycol)
+      - Textile fibers (polyester)
+      - Detergents and solvents
+    Properties:
+      - Highly reactive
+      - Flammable gas
+      - Lightweight molecule
+
+  - Name: Propylene
+    Type: Olefin
+    Description: A key petrochemical used in producing a wide range of plastics and chemicals.
+    Production:
+      Method:
+        - Steam Cracking
+        - Fluid Catalytic Cracking (FCC)
+      Feedstock:
+        - Naphtha
+        - Propane
+    Derivatives:
+      - Polypropylene (PP)
+      - Acrylonitrile
+      - Propylene Oxide
+      - Cumene
+    Uses:
+      - Automotive parts (plastic components)
+      - Packaging materials
+      - Textiles (synthetic fibers)
+      - Consumer goods
+    Properties:
+      - Flammable gas
+      - Moderate reactivity
+      - Versatile industrial use
+
+Processes:
+  - Name: Steam Cracking
+    Description: High-temperature process used to break down hydrocarbons into smaller molecules like ethylene and propylene.
+
+  - Name: Fluid Catalytic Cracking (FCC)
+    Description: Refining process that converts heavy hydrocarbons into lighter products including propylene.
+
+Applications:
+  Plastics:
+    - Packaging materials
+    - Bottles and containers
+    - Films and wraps
+
+  Chemicals:
+    - Solvents
+    - Detergents
+    - Industrial chemicals
+
+  Industrial:
+    - Automotive components
+    - Construction materials
+    - Electrical insulation
+
+Safety:
+  Guidelines:
+    - Handle flammable gases with care
+    - Use proper industrial storage systems
+    - Follow environmental and safety regulations
+
+Notes:
+  - Ethylene and propylene are foundational building blocks of the petrochemical industry
+  - Widely used across multiple sectors globally
+  - Demand is closely tied to manufacturing and economic activity
